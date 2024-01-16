@@ -42,5 +42,7 @@
 
     "scripts-descriptions": {
         "check" : "Roda de forma sequencial, o PHAN, PHPCS e PHPUnit"
-    }
+    },
+    "license": "GPL-3.0",
+    "bin": ["buscar-curos.php"]
 }
